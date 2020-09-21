@@ -14,7 +14,7 @@ _This is a project for Epicodus to practice using basic Ruby syntax. The program
 | Spec     | Behavior | Input    | Output   |
 | -------- | -------- | -------- | -------- |
 | 1 | The program takes a sentence and capitalizes the first letter of every word in the sentence. | "once upon a time" | "Once Upon A Time" |
-| 2 | The program does not put 'a', 'and', or 'the' in title case. | "once upon a time" | "Once Upon a Time" |
+| 2 | The program does not put 'a', 'an', 'and', or 'the' in title case. | "once upon a time" | "Once Upon a Time" |
 
 
 ## Setup/Installation Requirements
